@@ -1,5 +1,4 @@
 # RESUME
-Resume
 BATTU NAGA RAKESH
 ==================
 
