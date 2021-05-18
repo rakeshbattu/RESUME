@@ -35,7 +35,6 @@ Python - 90%
 -Html - 80%
 
 Java - 75%
-
 C Programming -90%
 
 Goals
