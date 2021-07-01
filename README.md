@@ -22,7 +22,7 @@ Intermediate
 College Name: NARAYANA Junior College
 Branch : MPC
 Year Of Study: 2016 - 2018
-Precentage : 90%
+Percentage : 90%
 Address : Vijayawada
 
 
@@ -31,11 +31,12 @@ SSC
 SchoolName: Krishna chaitanya School
 
 Year Of Study: 2016
-Precentage : 92%
+Percentage : 92%
 Address : Vijayawada
+
 Skills
 Python - 90%
--Html - 80%
+ Html - 80%
 
 Java - 75%
 C Programming -90%
@@ -50,7 +51,9 @@ Playing kabaddi
 Strengths & Weaknesses
 Strengths:
 smartwork
-Logical thinking -Adaptive Nature
+Logical thinking
+AdaptiveNature
+
 Weaknesses:
 i focus too much on details and always strive for perfection
 Achievements
