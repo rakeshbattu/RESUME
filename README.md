@@ -1,8 +1,8 @@
 # RESUME
 BATTU NAGA RAKESH
 ==================
-
-Personal details
+ 
+  Personal details
 Name:B.Naga Rakesh
 Mail Id:rakeshbattu511@gmail.com
 Phone:+91 XXXXXXXXXX
