@@ -24,9 +24,12 @@ Branch : MPC
 Year Of Study: 2016 - 2018
 Precentage : 90%
 Address : Vijayawada
+
+
 SSC
 
 SchoolName: Krishna chaitanya School
+
 Year Of Study: 2016
 Precentage : 92%
 Address : Vijayawada
